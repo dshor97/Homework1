@@ -9,4 +9,4 @@ Specifically, where we before just had a `Card` class for War, now we'll have a 
 
 Then, revise `MainDriver` to first ask the user whether to play War or Peace. Depending on the response, create the objects you need and play the game. Of course, our goal, as always, is to set things up to require the smallest possible change. What's the difference between playing War and playing Peace? How can you reflect that in your code?
 
-To turn in your work, clone this repository (which has no code in it) and add your `War` project. Then revise that code, committing and pushing as usual. Push your final work by 9am, Friday October 14. To earn credit, your code must be in the `master` branch of THIS repository (which should have a name like `homework1-username`).
+To turn in your work, clone this repository (which has no code in it) and add your `War` project. Then revise that code, committing and pushing as usual. Push your final work by 9am, Friday October 14. To earn credit, your code must be in the `master` branch of THIS repository (which should have a name like `username-homework1`).
